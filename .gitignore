@@ -1,0 +1,38 @@
+# Maven
+target/
+*.log
+
+# Gradle
+.gradle/
+build/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+
+# OS ilə bağlı
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Jar, class files
+*.class
+*.jar
+*.war
+*.ear
+
+# VS Code varsa
+.vscode/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Environment
+.env
